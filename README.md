@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and Bio-robotics/wearable Robots
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Anything really lol
-- 📫 How to reach me Discord @Almond5500
+- 📫 How to reach me on Discord @Almond5500
 
 <!---
 mustafa-5500/mustafa-5500 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
